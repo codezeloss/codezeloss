@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm eloss</h1>
+<h1 align="left">Hi 👋, I'm eloss</h1>
 <h3 align="center">A passionate frontend developer. I love everything related to 🎨 UI, so I find my creativity in converting designs to lines of 🛠 code with 🔥 passion & 💯 perfection</h3>
 
 <p align="left"> <a href="https://twitter.com/eloss_code" target="blank"><img src="https://img.shields.io/twitter/follow/eloss_code?logo=twitter&style=for-the-badge" alt="eloss_code" /></a> </p>
