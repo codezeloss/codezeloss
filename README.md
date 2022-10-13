@@ -2,8 +2,8 @@
 <p align="left">I'm a frontend developer. I'm passionate about everything related to UI, so I find my creativity in converting designs to lines of code with passion & perfection.</p>
 
 <div align="left">
-<p align="left"> <a href="https://twitter.com/eloss_code" target="blank"><img src="https://img.shields.io/twitter/follow/eloss_code?logo=twitter&style=for-the-badge" alt="eloss_code" /></a> </p>
-<p align="left"> <a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-eloss code-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> </p>
+<a href="https://twitter.com/eloss_code" target="blank"><img src="https://img.shields.io/twitter/follow/eloss_code?logo=twitter&style=for-the-badge" alt="eloss_code" /></a>
+<a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-eloss code-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
 
 - 🔭 I’m currently working on **my personal portfolio**.
