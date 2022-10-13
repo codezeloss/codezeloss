@@ -1,5 +1,5 @@
 # 👨🏻‍💻 eloss
 
-**"Frontend Developer (ReactJS/NextJS)"**
+**'Frontend Developer (ReactJS/NextJS)'**
 
 I'm a frontend developer....
