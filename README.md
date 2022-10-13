@@ -36,7 +36,7 @@
 <br/>
 
 <h3 align="left">📊 Some Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" /></p>
 
 
 
