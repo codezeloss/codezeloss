@@ -6,12 +6,12 @@
 <a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-eloss code-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
 <br/>
-<br/>
 
 - 🔭 I’m currently working on **my personal portfolio**.
 - 🌱 I’m currently learning **Typescript and NEXT.js**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/elosscode](https://www.frontendmentor.io/profile/elosscode).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social account bellow.
+<br/>
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
