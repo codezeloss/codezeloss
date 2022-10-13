@@ -1,6 +1,6 @@
 # 👨🏻‍💻 eloss
 
-**Frontend Developer (ReactJS/NextJS)**
+**Frontend Developer (ReactJS / NextJS)**
 
 ### 🛠 Technologies & Tools:
 
