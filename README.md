@@ -33,6 +33,7 @@
 
 <h3 align="left">📈 Most used languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" /></p>
+<br/>
 
 <h3 align="left">📊 Some Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" /></p>
