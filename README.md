@@ -24,6 +24,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">🚀 Currently learning:</h3>
 <p align="left">
@@ -32,12 +33,12 @@
 </p>
 
 <h3 align="left">📈 Most used languages:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" /></p>
-<br/>
-<br/>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" />
+</p>
 
 <h3 align="left">📊 Some Stats:</h3>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" />
+</p>
 
 
 
