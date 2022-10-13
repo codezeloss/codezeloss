@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Typescript and NEXT.js**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/elosscode](https://www.frontendmentor.io/profile/elosscode).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social account bellow.
-<br/>
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
