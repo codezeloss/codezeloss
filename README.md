@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **my personal portfolio**.
 - 🌱 I’m currently learning **Typescript and NEXT.js**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/elosscode](https://www.frontendmentor.io/profile/elosscode).
-- 📫 How to reach me **elhoussaineaitX@gmail.com**.
+- 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social account bellow.
 
 <h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
@@ -35,6 +35,10 @@
 <h3 align="left">📈 Most used languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" />
 </p>
+<br/>
+<br/>
+<br/>
+<div></div>
 
 <h3 align="left">📊 Some Stats:</h3>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" />
