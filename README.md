@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/elosscode](https://www.frontendmentor.io/profile/elosscode).
 - 📫 How to reach me **elhoussaineaitX@gmail.com**.
 
-<h3 align="left">☎️ Connect with me:</h3>
+<h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eloss_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eloss_code" height="30" width="40" /></a>
 <a href="https://instagram.com/eloss.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eloss.code" height="30" width="40" /></a>
