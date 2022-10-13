@@ -16,6 +16,6 @@
 ### 🚀 Currently learning:
 
 <img align="left" alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="NextJS" src="https://img.shields.io/badge/next-%23007ACC.svg?style=for-the-badge&logo=next&logoColor=white" />
+<img align="left" alt="NEXTJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 
 
