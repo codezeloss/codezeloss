@@ -8,7 +8,7 @@
 <br/>
 
 - 🔭 I’m currently working on **my personal portfolio**.
-- 🌱 I’m currently learning **Typescript and NEXT.js**.
+- 🌱 I’m currently learning **Typescript, NEXT.js & GraphQL**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/elosscode](https://www.frontendmentor.io/profile/elosscode).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social links bellow.
 
