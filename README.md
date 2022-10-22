@@ -39,8 +39,8 @@
 <h4>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h4>
 
 <br/>
-<h3 align="left">📈 Most used languages:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" />
+<div><h3 align="left">📈 Most used languages:</h3>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" /></div>
 </p>
 <br/>
 <br/>
@@ -50,6 +50,6 @@
 <br/>
 <div></div>
 <br/>
-<h3 align="left">📊 Some Stats:</h3>
+<div><h3 align="left">📊 Some Stats:</h3>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" />
-</p>
+</p></div>
