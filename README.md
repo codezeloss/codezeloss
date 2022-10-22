@@ -44,11 +44,8 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <div></div>
+<br/>
 <div><h3 align="left">📊 Some Stats:</h3>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" />
 </p></div>
