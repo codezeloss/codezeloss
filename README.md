@@ -38,10 +38,13 @@
 </p>
 <h4>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h4>
 
-<br/>
 <div><h3 align="left">📈 Most used languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" /></div>
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <div></div>
