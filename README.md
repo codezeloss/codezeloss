@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 !!!</h1>
-<p align="left">I'm a React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs into lines of code with creativity, love & perfection 💯.</p>
+<p align="left">I'm a React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs & ideas into lines of code with love, creativity & perfection 💯.</p>
 
 <div align="left">
 <a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
