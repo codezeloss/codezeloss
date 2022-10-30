@@ -39,7 +39,7 @@
 <h4>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h4>
 
 <div><h3 align="left">📈 Most used languages:</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elosscode&show_icons=true&theme=onedark&locale=en&layout=compact" alt="elosscode" /></div>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codezeloss&show_icons=true&theme=onedark&locale=en&layout=compact" alt="codezeloss" /></div>
 </p>
 <br/>
 <br/>
@@ -50,5 +50,5 @@
 <div></div>
 <br/>
 <div><h3 align="left">📊 Some Stats:</h3>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elosscode&show_icons=true&theme=onedark&locale=en" alt="elosscode" />
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codezeloss&show_icons=true&theme=onedark&locale=en" alt="codezeloss" />
 </p></div>
