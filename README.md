@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm eloss :)</h1>
+<h1 align="left">Hi 👋 !!!</h1>
 <p align="left">I'm a React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs into lines of code with creativity, love & perfection 💯.</p>
 
 <div align="left">
