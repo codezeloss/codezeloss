@@ -2,7 +2,7 @@
 <p align="left">I'm a React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs into lines of code with creativity, love & perfection 💯.</p>
 
 <div align="left">
-<a href="https://twitter.com/eloss_code" target="blank"><img src="https://img.shields.io/twitter/follow/eloss_code?logo=twitter&style=for-the-badge" alt="eloss_code" /></a>
+<a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="eloss_code" /></a>
 <a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-eloss code-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
 <br/>
