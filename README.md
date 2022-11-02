@@ -5,7 +5,6 @@
 <a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
 <a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-codezeloss-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
-<br/>
 <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
 
 - 🔭 I’m currently working on **my personal portfolio**.
