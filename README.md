@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋 !!!</h1>
-<h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
-
 <p align="left">I'm a Junior React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs & ideas into lines of code with love, creativity & perfection 💯.</p>
 
 <div align="left">
@@ -8,6 +6,7 @@
 <a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-codezeloss-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
 <br/>
+<h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
 
 - 🔭 I’m currently working on **my personal portfolio**.
 - 🌱 I’m currently learning **Typescript, NEXT.js & GraphQL**.
