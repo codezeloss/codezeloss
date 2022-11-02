@@ -1,4 +1,6 @@
 <h1 align="left">Hi 👋 !!!</h1>
+<h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
+
 <p align="left">I'm a Junior React Frontend developer. I'm passionate about everything related to UI, so I find my passion in converting designs & ideas into lines of code with love, creativity & perfection 💯.</p>
 
 <div align="left">
@@ -36,7 +38,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
-<h4>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h4>
 
 <div><h3 align="left">📈 Most used languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codezeloss&show_icons=true&theme=onedark&locale=en&layout=compact" alt="codezeloss" /></div>
