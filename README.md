@@ -8,7 +8,7 @@
 <br/>
 
 - 🔭 I’m currently working on **my personal portfolio**.
-- 🌱 I’m currently learning **Typescript, NEXT.js & GraphQL**.
+- 🌱 I’m currently learning **Nodejs, MongoDB & Express**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/codezeloss](https://www.frontendmentor.io/profile/codezeloss).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social links bellow.
 
@@ -29,7 +29,10 @@
 </p>
 
 <h3 align="left">🚀 Currently learning:</h3>
-<p align="left">
+<p align="left"> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
 
