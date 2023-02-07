@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **my personal portfolio**.
 - 🌱 I’m currently learning **Nodejs, MongoDB & Express**.
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/codezeloss](https://www.frontendmentor.io/profile/codezeloss).
-- 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through my social links bellow.
+- 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through Twitter.
 
 <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
 
