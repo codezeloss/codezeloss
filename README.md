@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **my personal portfolio**. -->
 - 🌱 I’m currently learning **Nodejs, MongoDB & Expressjs**.
-- 👨‍💻 All of my projects are available at [portfolio website](https://codezeloss-com.vercel.app/).
+- 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss-com.vercel.app/).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through Twitter.
 
 <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
