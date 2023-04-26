@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 !!!</h1>
+<h1 align="left">Hello people of the internet 👋 !!!</h1>
 <p align="left">I'm a Frontend developer, I convert designs & ideas to code. React/Nextjs are the technologies I love to work with.</p>
 
 <div align="left">
@@ -8,7 +8,7 @@
 <br/>
 
 <!-- - 🔭 I’m currently working on **my personal portfolio**. -->
-- 🌱 I’m currently learning **Nodejs, MongoDB & Expressjs**.
+- 🌱 I’m currently learning **MERN stack development**.
 - 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss-com.vercel.app/).
 - 📫 How to reach me? ✉️**elhoussaineaitX@gmail.com** or through Twitter.
 
