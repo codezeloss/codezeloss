@@ -10,7 +10,7 @@
 <!-- - 🔭 I’m currently working on **my personal portfolio**. -->
 - 🌱 I’m currently learning **MERN stack development**.
 - 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss-com.vercel.app/).
-- 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/).
+- 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or Twitter.
 
 <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
 
