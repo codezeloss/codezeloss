@@ -8,11 +8,11 @@
 <br/>
 
 <!-- - 🔭 I’m currently working on **my personal portfolio**. -->
-- 🌱 I’m currently learning **MERN stack development**.
-- 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss-com.vercel.app/).
+- 🌱 I’m currently learning **React Native & NEXTjs**.
+- 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss.vercel.app/).
 - 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or Twitter.
 
-<h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
+<!-- <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5> -->
 
 <h3 align="left">🛠 Technologies & Tools:</h3>
 <p align="left"> 
