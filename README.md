@@ -1,5 +1,5 @@
-<h1 align="left">Hello people of the internet 👋 !!!</h1>
-<p align="left">I'm a Frontend developer, I convert designs & ideas to code. React/Nextjs are the technologies I love to work with.</p>
+<h1 align="left">Full-stack Next.js Developer | ✨ Frontend Specialist</h1>
+<p align="left">Hi! 👋 I'm Elhoussaine, a Full-Stack Next.js Developer who loves building websites and web applications. I specialize in React.js and Next.js, turning designs into smooth, responsive websites that people enjoy using.</p>
 
 <div align="left">
 <!--<a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
