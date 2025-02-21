@@ -1,5 +1,7 @@
 <h1 align="left">Full-stack Next.js Developer | ✨ Frontend Specialist</h1>
-<p align="left">Hi! 👋 I'm Elhoussaine, a Full-Stack Next.js Developer who loves building websites and web applications. I specialize in React.js and Next.js, turning designs into smooth, responsive websites that people enjoy using.</p>
+<p align="left">Hi! 👋 I'm Elhoussaine, a Full-Stack Next.js Developer who loves building websites and web applications. I specialize in React.js and Next.js, turning designs into smooth, responsive websites that people enjoy using.
+I'm really good at taking a design and bringing it to life exactly as envisioned, making sure it works perfectly on all devices. While I'm mainly focused on frontend development, I also enjoy building Full-Stack applications using Next.js when projects need both frontend and backend work.
+</p>
 
 <div align="left">
 <!--<a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
