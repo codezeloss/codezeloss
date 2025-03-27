@@ -10,7 +10,7 @@ I'm really good at taking a design and bringing it to life exactly as envisioned
 <br/>
 
 <!-- - 🔭 I’m currently working on **my personal portfolio**. -->
-- 🌱 I’m currently learning **React Native & NEXTjs**.
+- 🌱 I’m currently learning **React Native**.
 - 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss.vercel.app/).
 - 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or [X(Twitter)](https://x.com/codezeloss).
 
