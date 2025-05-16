@@ -12,19 +12,24 @@ Whether it's a sleek marketing site, a custom dashboard, or a full-stack SaaS MV
 Always learning, always building — I'm currently deepening my experience in AI integration and scalable architecture to stay ahead in the fast-evolving tech world.
 </p>
 
+<!--
 <div align="left">
-<!--<a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
-<a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-codezeloss-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>-->
+<a href="https://twitter.com/codezeloss" target="blank"><img src="https://img.shields.io/twitter/follow/codezeloss?logo=twitter&style=for-the-badge" alt="codezeloss" /></a>
+<a href="https://www.frontendmentor.io/profile/elosscode" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-codezeloss-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
 </div>
 <br/>
+-->
 
-<!-- - 🔭 I’m currently working on **my personal portfolio**. -->
-- 🌱 I’m currently learning **React Native**.
-- 👨‍💻 All of my projects are available at my [portfolio website](https://codezeloss.vercel.app/).
-- 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or [X(Twitter)](https://x.com/codezeloss).
+<!-- - 🔭 I’m currently working on **my personal portfolio**. 
+🌱 I’m currently learning **Mobile Native**.
+-->
 
-<!-- <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5> -->
+👨‍💻 All of my recent projects are available at my [portfolio website](https://codezeloss.vercel.app/).
+📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or [X(Twitter)](https://x.com/codezeloss).
 
+<!-- <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
+
+<!--
 <h3 align="left">🛠 Technologies & Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -41,7 +46,8 @@ Always learning, always building — I'm currently deepening my experience in AI
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
+ -->
+ 
 <!-- 
 <h3 align="left">🚀 Currently learning:</h3>
 <p align="left"> 
@@ -64,7 +70,7 @@ Always learning, always building — I'm currently deepening my experience in AI
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 -->
-<!--  -->
+
 </p>
 
 <div><h3 align="left">📈 Most used languages:</h3>
@@ -77,7 +83,9 @@ Always learning, always building — I'm currently deepening my experience in AI
 <br/>
 <br/>
 <div></div>
+<!--  
 <br/>
 <div><h3 align="left">📊 Some Stats:</h3>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codezeloss&show_icons=true&theme=onedark&locale=en" alt="codezeloss" />
 </p></div>
+-->
