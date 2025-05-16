@@ -24,7 +24,7 @@ Always learning, always building — I'm currently deepening my experience in AI
 🌱 I’m currently learning **Mobile Native**.
 -->
 
-👨‍💻 All of my recent projects are available at my [portfolio website](https://codezeloss.vercel.app/).
+👨‍💻 All of my recent projects are available at my [portfolio website](https://codezeloss.vercel.app/).<br/>
 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or [X(Twitter)](https://x.com/codezeloss).
 
 <!-- <h5>⚠️ I recommend to look through my pinned repositories which showcase my current skills.</h5>
@@ -69,9 +69,10 @@ Always learning, always building — I'm currently deepening my experience in AI
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+</p>
 -->
 
-</p>
+<br/>
 
 <div><h3 align="left">📈 Most used languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codezeloss&show_icons=true&theme=onedark&locale=en&layout=compact" alt="codezeloss" /></div>
@@ -82,9 +83,9 @@ Always learning, always building — I'm currently deepening my experience in AI
 <br/>
 <br/>
 <br/>
-<div></div>
+
 <!--  
-<br/>
+<div></div>
 <div><h3 align="left">📊 Some Stats:</h3>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codezeloss&show_icons=true&theme=onedark&locale=en" alt="codezeloss" />
 </p></div>
