@@ -1,6 +1,15 @@
-<h1 align="left">Full-stack Next.js Developer | ✨ Frontend Specialist</h1>
-<p align="left">Hi! 👋 I'm Elhoussaine, a Full-Stack Next.js Developer who loves building websites and web applications. I specialize in React.js and Next.js, turning designs into smooth, responsive websites that people enjoy using.
-I'm really good at taking a design and bringing it to life exactly as envisioned, making sure it works perfectly on all devices. While I'm mainly focused on frontend development, I also enjoy building Full-Stack applications using Next.js when projects need both frontend and backend work.
+<h1 align="left">🌐 Full-Stack Web Developer · ✨ React & NEXT.js Specialist · 🎯 Product-Centric Builder</h1>
+<p align="left">Hello! 👋 I'm Elhoussaine, a Full-Stack Web Developer with a strong focus on building production-ready digital solutions using the Next.js ecosystem.
+
+I specialize in frontend development with React.js and Tailwind CSS, and I also handle full-stack application development — from building intuitive interfaces to designing performant backend APIs. My strength lies in turning ideas into fast, responsive, and reliable web apps.
+
+I’ve worked with startups and tech teams to deliver scalable solutions, including internal tools and early-stage SaaS platforms. I take pride in writing clean code, building accessible UI, and focusing on performance, UX, and real-world business impact.
+
+I regularly use modern tools like Prisma ORM, PostgreSQL, React Query, Redux Toolkit, and AI-powered APIs to accelerate development and deliver value quickly. I also enjoy leveraging AI tools during the development process to ship faster and smarter.
+
+Whether it's a sleek marketing site, a custom dashboard, or a full-stack SaaS MVP — I love building products that users enjoy and businesses rely on.
+
+Always learning, always building — I'm currently deepening my experience in AI integration and scalable architecture to stay ahead in the fast-evolving tech world.
 </p>
 
 <div align="left">
