@@ -27,7 +27,6 @@ Always learning, always building — I'm currently deepening my experience in AI
 👨‍💻 All of my recent projects are available at my [portfolio website](https://codezeloss.vercel.app/).<br/>
 📫 How to reach me? Through my [linkedIn profile](https://www.linkedin.com/in/codezeloss/) or [X(Twitter)](https://x.com/codezeloss).
 
-<br/>
 <div>
   <h3 align="left">📈 Most used languages:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codezeloss&show_icons=true&theme=onedark&locale=en&layout=compact" alt="codezeloss" />
